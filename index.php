@@ -9,7 +9,7 @@
 			     <div class="banner_desc">
 			   	 É o sistema de alimentação de combustível nos carros mais modernos. Muitos crêem que o sistema de injeção se limita aos bicos injetores, porém é apenas um dos elementos.
 		         </div>
-		         <a href="injecaoeletronica.html">Leia mais</a><!--botão c/link-->
+		         <a href="injecaoeletronica.php">Leia mais</a><!--botão c/link-->
 		    </div><!--fecha div banner1-->  
 		    
 		    <div class="banner2">
@@ -19,7 +19,7 @@
 			     <div class="banner_desc">
 			   	 O sistema de suspensão absorve, por meio dos seus componentes, todas as irregularidades do solo e também é responsável pela estabilidade do automóvel.
 		         </div>
-		         <a href="suspensao.html">Leia mais</a>
+		         <a href="suspensao.php">Leia mais</a>
 		    </div><!--fecha div banner2-->  
 
 		    <div class="banner3">
